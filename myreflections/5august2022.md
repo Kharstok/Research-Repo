@@ -28,6 +28,7 @@ so far ive only seen perlin noise called upon as functions and applied to someth
 While looking into generators using perlin noise I also came acorss [this video](https://www.youtube.com/watch?v=20KHNA9jTsE&list=WL&index=9) which is FANTASTIC, I learnt of alot of new terms through this video which ill list below
 1. Voxels
 2. Marching Cubes
+3. Wave Function Collapse
 
 The video linked to [this devlog](https://forums.tigsource.com/index.php?topic=54424.msg1237532#msg1237532) by the creators of Phantom Brigade, ive not heard of the game but I like the way that created their maps. They used the Marching Cubes method and create a system for their tilesets and each sets compatability with others. I plan to look further into this at somepoint but would rather stick to my explorations into perloin noise for now rather than overload myself. 
 
