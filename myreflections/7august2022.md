@@ -1,7 +1,7 @@
-<!-- Keywords-->
+<!-- reflection, assurance, affirmation, mental health -->
 # Looking back, Moving forward
 ## Reading the Map
-Before this entry I want to substantiate(?(not the word of the day theres surely a better word)) my aims for this repository by typing this small preface. In the previous entry I mentioned my concerns around the repository becoming closer to a journal, I want to address that now in hopes that future entries will be better structured and the purpose clear.
+Before continuing I want to substantiate(?(not the word of the day, theres surely a better word)) my aims for this repository by addressing concerns I had for myself in the previous entry, around the repository becoming closer to a journal, I want to address this now in hopes that future entries will be better structured and more clear both in reading and for myself.
 The assignment details say that the repositry is to be..
 1. A collection of my own code
 2. .. code that has inspired me (including comments)
@@ -29,4 +29,9 @@ requirements 2 and 3 (despite some possible format errors?) seem to lean more to
 
 ## Paving the Road
 After going through the requirements Its been of minimal help for the 'right' way to lay out my entries so instead I will lay out my own goals and affirmations for this repository, like i mentioned i think its important to do this now to keep things structured and to keep a healthy mindset.
-1. 
+
+### Goals and Affirmations
+1. To document research sources and topics for both current projects and for reference in future projects. I intend to do this in a way that remains focused on the task at hand while also opening the door to 'branching topics' that may be investigated at a later time
+2. To document my insights, questions and curiosities surrounding the reasearch, for both current and future reflection
+3. Explore, Analyse, Develop, Apply, Sustain 
+4. I give myself permission to take note of my headspace and mindset during the research particularly in regard to creativity, I acknowledge that creative expression can have a negative impact on my wellbeing but that the solution is found in action not avoidance. Personalising this repository does not take away its value in developing my abilities in software development or in creative practice
