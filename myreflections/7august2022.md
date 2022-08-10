@@ -1,4 +1,4 @@
-<!-- reflection, assurance, affirmation, mental health -->
+<!-- reflection, assurance, affirmation, mental health, goals -->
 # Looking back, Moving forward
 ## Reading the Map
 Before continuing I want to substantiate(?(not the word of the day, theres surely a better word)) my aims for this repository by addressing concerns I had for myself in the previous entry, around the repository becoming closer to a journal, I want to address this now in hopes that future entries will be better structured and more clear both in reading and for myself.
