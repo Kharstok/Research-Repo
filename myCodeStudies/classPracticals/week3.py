@@ -73,11 +73,8 @@
 ## took
 #------------------------------------------------------------------------------
 
-n = int(0)
-N = int(0)
-
 # equation = (f'{n} * {N} = {N*n}')
 
-for n in range(1-11) and N in range(1-13):
+for n in range(1-11) and for N in range(1-13):
     while N != 12 and n !=10:
         print(f'{N} * {n} = {N*n}')
