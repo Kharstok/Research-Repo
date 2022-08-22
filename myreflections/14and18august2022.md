@@ -1,0 +1,71 @@
+<!-- WFC, Wave function collapse, AI, ai generated art, midjourney, concept art, ego , mental health, psychology, Mirrors, Daniel Shiffman, p5.js, questions (line 48), sudoku  Keywords -->
+
+# Kgs of Content
+Im intending this reflection to be a large one starting with a reflection on Romans lecture and then on to the accumulated notes from the Wave function collapse practice (myCodeStudies/WFC).
+
+## *Now Featuring* TLDR
+During the lecture Roman asked us to do an exercise involving each person having there phone aimed at someone with the recording stoping as soon as they left screen or there was an intersection.. I cant say I understood what the outcome was supposed to look like but I did come in late while trying to get Microsoft Teams working properly at home while im sick.
+Kinfe uploaded a video from campus showing our normal groups phones all recording someone else
+
+===
+    Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image? 
+===
+
+To me the outcome that Kinfe uploaded made me think about how we are percieved through the lense of another although the videos were pretty static, no one was really moving all that much and there was no intersection and everyone ended recording at the same time. 
+If I were watching the video and were the subject of the video I imagine ild feel slightly detached from the me looking back.. ive noticed in similar activities that my facial expressions dont always match how I feel.. to elaborate.. when i see someones elses face I associate them with several other things or other expressions,they come with connotations which then gives me an assumption on how there feeling, thinking or what theyre wanting to express. This assumption is usually proven correct.. and im blunt so sometimes i ask if im right in my assumption XD. When I see my own expression I dont associate it with the same things.. It doesnt really feel like I look like me. Maybe because I assosciate my'self' with the people or experinces that have made me 'me' and have associated their appearance with certain characteristics that I recognise in other people visually but when I recognise those characteristics in my self I see 'me' for me not other people (as opposed to seeing other people for the characteristics visually I see characteristics in 'me' as me visually?)?. Its the same with my voice for which im very self-concious about.
+
+How are we evolving with this device?: Our phones? I think a collective awareness( or concernedness) on how we are percieved by others, an evolution of mindset, is the biggest evolution from cellphones. I find it unhealthy and unhelpful to think to much on how I am being percieved, others embrace our pocket friends through social media (facebook, instagram, tiktok etc) and participate in it as a way to express a variety of aspects of themselves and their life. Our evolution I would think sits heavily in the realm of psychology, a shift in mindset and perception, people seem to change significantly based on what is trending in cyberspace but is this so different from us changing overtime based on our real world interactions? 
+
+Also it made me think about mirrors(not the lil wayne song), i like them as a topic.. reflections, mirrors, light all great topics to explore creatively at somepoint but not entirely relevant at the moment for my goals with this repository 
+
+bold TLDR: Apprently yes I noticed my ego very highly.. and mirrors and facebook 
+
+## Word of the Day: cognisant 
+italics Word of the day by Roman when I messaged asking about the software he used
+Roman also showed us a music video he created using a text to image AI programme, similar to [Midjourney](https://www.midjourney.com/home/) or DeepAi although he doesnt reccomend these ones becasue they copywrite your output as their own, instead he reccomends the following..
+1. [pytti](https://pytti-tools.github.io/pytti-book/Setup.html) (which Roman had a hand in making)
+2. VQCAN
+3. Clip
+4. Disco Diffusion
+
+I never knew this type or software existed, it looks like its relatively new as is AI in the scheme of things but the posibilities going forward could be huge. In the meetings chat, Jordan said..
+ "It's Interesting, and I can see it being used to conventionally cut down things like concept art time. But it kind of also feels a little bit like stealing the artists style that they took years to develop."
+I agree, these base images are coming from somewhere but I suppose it is upto the original artist as to wether it affects them or not from a creative and emotional standpoint, on the other hand the output, in actual usage, would end up unrecognisable from the base images. Its also a valid concern that this type of programme could reduce the need for traditional (traditional now including digital) artists as with an apt enough imagination and words to convey it, anyone could create concept art wether for entertainment or functional design.. this isnt necesarily a bad thing but it would require a shift in the way artists work.. atleast for their work to remain profitable and commercially needed.. which is a problematic sphere in its own right.
+
+Some ways that I could apply this kind of programme is along side my dream journalling and also in developing creative ideas, I have far more imagination than I do the creative skils to express it but with software like this, that is possibly the best ratio to have and would enable me to better explore those ideas and generate new ones (Neri Oxman full circle). I wonder what it would look like if it were integrated in someway to 3D generators (thinking along the lines of 3D noise and WFC) I can see it being applied as a texture but if you were able to determine a height value based on certain attributes that could look interesting. maybe an attribute could be nodes at colour change, recognising when different base images are used and assigning start and end points on a mesh? After having a look at some [articles](https://openai.com/blog/clip/) on how AI generated art works, It might be more likely that if you were to convert it into 3D then a 'classify' might pass over the image and compare it with other 3D models or with concepts like background or foreground, or perhaps the likelyhood of the surface type.
+Just a thought, it could look something like this:
+- if the subject is identified as a landscape..
+- and there is a large amount of blue..
+- is that blue, ocean? 
+- if it can be classed as ocean it would be a predominantly flat plane..
+- and the items within or on the blue area that does not fit the class of landscape or ocean is likely to be floating on it..
+- meaning it needs it will need a mesh different from the mostly flat mesh/plane of the ocean.
+
+# Please open book '/myCodeStudies' and turn to page ../WFC/WFC.js
+Over the last few days Ive been following [this](https://www.youtube.com/watch?v=rI_y2GAlQFM) tutorial by [CodingTrain](https://github.com/CodingTrain).
+The video follows Daniel Shiffman, an Associate Arts Professor at NYU, while he explores the topic and process of wave function collapse using P5.js. 
+
+Over the course of the video Daniel explained, as he typed, each part of the code from a high/mid level point of view. I then typed this out line for line in VScode, explaining/commenting it in my own words and looking up anything I didnt understand including lists, arrays, the difference between const and let, the difference between '(', '{' and '[' , and the structure of classes, objects and functions. In WFC.js I structures this by typing the first section of the code and giving it a pseudo-header like "iteration 1' commenting on what the code and how it works before copying it, commenting it out, pasting, labelling as 'iteration 2' and then commenting on the additions or changes. I found this way of learning helpful like immersive language learning, we know the answer all ready but how did we get there, why does it work? I think this would enable me in the near future to write my own 'questions' and then contemplate the answer, is it correct or as expected? if its not does it still provide the same outcome? could it be useful later? why did it end up this way?
+
+Its been really good to get stuck into doing some coding and try to break away from this habit of 'knowledge hoarding' where I collect knowledge without making use of it. Im planning to look at somepoint on adjusting the code to check in rows, columns and pre-defined 'segments' for compatabillity/entropy, rather than the tiles direct neighbours, in order to use it to generate sudokus. I could then merge the ideas mention both here and in the 10th August 22 reflection to create a terminal sudoku game. My interest in sudoku is limited but i like the logic behind it and feel the same could be applied in other areas, what if the numbers represented something else? a planting guide cosidering companion planting? biomes in map generation? 
+perhaps those numbers could represent graph data like Roman mentioned in class, could those have any applications in those?
+
+I want to finish of this entry by mentioning some of insights, fixes and ideas I took note of during the WFC.js exercise.
+
+1. when showing iterations in one file start with most recent at the top, this makes it easier when following along in tutorials becasue when a line is being questioned in the video is similar to your own line (not neccesarily exact becuase of comments etc.)
+
+2. comment comment comment all the time (remember you thought the comment wasnt important but wished you could recall it regarding a later issue)
+
+3. check/run/debug code in segments. do not type lines and lines without checking
+
+4. console log can expose errors early on and take out the guess work (it showed you how many entries as array had at each point and when it incorrectly was empty, which tells you in what lines or functions the error was
+
+5. some mistakes are happy discoveries, dont write off every mistake or 'discovery'
+
+6. Naming is important. The contents of, grid1, grid2, grid3 is not alwasy clear when it is written early on and needing to be referenced much later. they need to be more uniqueror (Unword of the day)
+
+7. Keeping your reflection light and humourous (even if only to you(especially only to you)) is a good motivator to keep writting and engaged
+
+### A quick note
+the landing page for MidJourney is rediculously cool, It is mentioned here to keep note of for future endevours
+https://www.midjourney.com/home/
