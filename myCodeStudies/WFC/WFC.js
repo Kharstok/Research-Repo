@@ -264,7 +264,7 @@
 // ////                     Iteration 4
 // ////========================================================
 // // lots of errors from the video were ammended here and notes will be put down in reflection for error checking.
-// // the changes made in this section are mostly because of incorrect naming 
+// // the changes made in this section are mostly because of incorrect naming or references (such as referencing tiles instead of grid, this section ammended that)
 
 // const tiles = []; 
 
