@@ -1,12 +1,13 @@
 #FAAAAR, ive spent an hour or two trying to get this to run on VScode using (https://discourse.processing.org/t/tutorial-running-python-mode-in-vscode/7716?page=2) among other options and several different extensions so I give up.
-#To run this code program download 'Processing' and the python extension for processing and open this file from there.
+# SOLVED: To run this code program download 'Processing' and the python extension for processing and open this file from there.
+
 
 
 
 
 #https://www.youtube.com/watch?v=0emj42Bn-_Y&list=WL&index=3
 # This was made by following the above video and seperated into sections to show how the code was at various steps
-# Ordered from code view at the end of video to code view at the start.
+# Ordered from final iteration to initial iteration
 
 
 #-----------------------------------------------------------------------------------
