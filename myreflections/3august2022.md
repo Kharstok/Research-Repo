@@ -2,7 +2,7 @@
 # Drink everytime you read 'Layer'
 After looking into some works by Neri Oxman I became curious on visual simulations or 3d generators because the way her works have been displayed remind me of such things (and still may be exactly that). To explore that curiosity I thought on more simple 'generators' ive seen before, the first to come to mind were the generators I toyed with in Minecraft, im sure theyve come a long way since I was in school but the early pseudo-random map generator is the one ild like to look further into for now.
 
-"(The maps generated are) random in the sense that you can’t predict what you are going to get from them, but they are 'smooth' – the value you get depends on the values around it, rather than each one being independent."
+> "(The maps generated are) random in the sense that you can’t predict what you are going to get from them, but they are 'smooth' – the value you get depends on the values around it, rather than each one being independent."
 
 The quoted text is from Caleb Comptons at ['rempton games'](https://remptongames.com/2021/02/28/how-minecraft-generates-massive-virtual-worlds-from-scratch/) and assured me that i was on the right train of thought when I assumed that the generator considers each block (and the context of that block) when generating the map, the height for example is not completely random otherwise the odds of getting a mountain rather than a hilled terrain are very unlikely, several 'layers' are then passed over it, caves or any other negative space is also created when a certain 'layer' is passed as well as other layers generating biomes, ores and animals depending on the context (postion, height, tilemap) of blocks in the area.
 

@@ -10,13 +10,22 @@ Early in the hunt i found [this video](https://www.google.com/url?sa=t&source=we
 
 Im surprised to find a huge variety of uses for perlin noise! Ill list them with description below before explaining to future me (and i suppose whoever else reads this?) what perlin noise actually is.. 
 	
-1. [Joyce[MinionsArt]](https://minionsart.github.io/tutorials/) Uses perlin noise to create shaders in Unity. Their [Twitter](https://twitter.com/minionsart) also has some great posts.
-2. [Parametric House](https://parametrichouse.com/?s=perlin+noise&asl_active=1&p_asid=1&p_asl_data=cXRyYW5zbGF0ZV9sYW5nPTAmc2V0X2ludGl0bGU9Tm9uZSZzZXRfaW5jb250ZW50PU5vbmUmc2V0X2luZXhjZXJwdD1Ob25lJnNldF9pbnBvc3RzPU5vbmU=) Has a few videos on pottery made (or atleast designed) using perlin noise as well as 'objects'. They mention using a program called [Grasshopper3d](https://www.grasshopper3d.com/)
-3. ['Understanding Simple Perlin Noise - Generating Islands'](https://www.youtube.com/watch?v=0emj42Bn-_Y&list=WL&index=3) A great video that introduced me to ['Processing'](https://processing.org/) I followed along with the video and created the program which is now 'perlinNoise1'in the 'myCodeStudies' folder
+1. [Joyce[MinionsArt]](https://minionsart.github.io/tutorials/) 
+    - Uses perlin noise to create shaders in Unity. Their [Twitter](https://twitter.com/minionsart) also has some great posts.
+
+2. [Parametric House](https://parametrichouse.com/?s=perlin+noise&asl_active=1&p_asid=1&p_asl_data=cXRyYW5zbGF0ZV9sYW5nPTAmc2V0X2ludGl0bGU9Tm9uZSZzZXRfaW5jb250ZW50PU5vbmUmc2V0X2luZXhjZXJwdD1Ob25lJnNldF9pbnBvc3RzPU5vbmU=) 
+    - Has a few videos on pottery made (or atleast designed) using perlin noise as well as 'objects'. They mention using a program called [Grasshopper3d](https://www.grasshopper3d.com/)
+
+3. ['Understanding Simple Perlin Noise - Generating Islands'](https://www.youtube.com/watch?v=0emj42Bn-_Y&list=WL&index=3) 
+    - A great video that introduced me to ['Processing'](https://processing.org/) I followed along with the video and created the program which is now 'perlinNoise1'in the 'myCodeStudies' folder
 
 [Understanding Simple Perlin Noise - Generating Islands.](https://www.youtube.com/watch?v=0emj42Bn-_Y&list=WL&index=3) - Im glad I came across this, it was a good opportunity to actually code something im not sure what part of the code is actually creating the 'random-ness' though I know there is a random aspect to it since what is displayed changes each time. Rather than look into that right away and loose track of my thoughts, ive created a 'to-do-list' in the repository.
 
-So future me and co.. 
+---
+<br>
+
+# So, future me and co.. 
+
 ### What is perlin noise? 
 Perlin noise is a type of gradient noise alongside simplex, open simplex, and others. Its pseudo-random ouput lends well to being used in the context of graphics generation when more organic forms are required (such as terrain and heightmaps, textures like smoke, fire or water and less common situations like pottery and 3d printing in the case of parametric house). From the context of what ive been looking at it also seems to be a processing power efficient way to get results for the previously mentioned use cases
 ### How does it work

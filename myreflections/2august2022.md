@@ -8,7 +8,7 @@ In 'The Age of Entanglement' Neri brings to our attention the entagled nature of
 
 Neri discusses the [Krebs cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle) (or citric acid cycle), a process where energy is created in the body through chemical reactions, and associates it with John Maedas' 'Bermuda Quadrilateral'. The association Neri makes between the two, she outlines in the below diagram.
 
------
+![diagram](\myreflections\NeriOxman.png)
 
 After reading Neris' essay I thought to reflect on it, In the context of software development and the approach i might take, would make for a good first journal entry.
 
@@ -18,8 +18,8 @@ While i dont expect that Neris essay will be the sole pillar in me building a mo
 
 I think the most thought provoking part of having read 'The Age of Entaglement' was the subsequent articles I read on Neri Oxmans projects. Its hard to tell all the mediums involved in her works particularly in Vespers but she mentions simulations several times. Ild like to at somepoint build/design a simulation myself, what better way to experiment with moving from perception to production to perception then by having created something where the visual output is possibly directly inspiring the form of another work.. like lighting a match and finding inspiration in the flame
 
-------
-
+---
+<br>
 Past Neris essay I looked into some of her works. Truly she is working with all four segments of the 'Quadrilateral' she explored in her essay. Below for later inspiration are links I found inspiring
 
 [Vesper Deathmasks](https://oxman.com/projects/vespers-ii)

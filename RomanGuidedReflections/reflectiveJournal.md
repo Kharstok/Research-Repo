@@ -1,3 +1,5 @@
+NOTE: Each week, task and question/answer combo is nested within each other. If viewing in VScode an arrow should appear on each header tag.
+
 # Reflective Journal
 
 ## Week 1:
