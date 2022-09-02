@@ -1,5 +1,5 @@
 <!-- Autotelic, Software Development, Roman Mitch, Neri Oxman, The Age of Entanglement, Krebs Cycle, Biology, Mindset, Behaviour, Art, Design -->
-# Neri to Entaglement
+# Entagled
 Roman Mitch, my lecturer for software development, mentioned during the week two lecture of a paper written by Neri Oxman titled 'The Age of Entanglement'.
 
 In 'The Age of Entanglement' Neri brings to our attention the entagled nature of our modern disciplines..
@@ -8,7 +8,7 @@ In 'The Age of Entanglement' Neri brings to our attention the entagled nature of
 
 Neri discusses the [Krebs cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle) (or citric acid cycle), a process where energy is created in the body through chemical reactions, and associates it with John Maedas' 'Bermuda Quadrilateral'. The association Neri makes between the two, she outlines in the below diagram.
 
-![diagram](\myreflections\NeriOxman.png)
+![diagram](\MyReflections\NeriOxman.png)
 
 After reading Neris' essay I thought to reflect on it, In the context of software development and the approach i might take, would make for a good first journal entry.
 
