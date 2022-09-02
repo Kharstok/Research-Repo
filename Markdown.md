@@ -25,11 +25,11 @@ Nested *Italic* text
 
 > block quoted text with '>'
 
-> block quoted text
-> across multiple lines
-> three even
+> block quoted text <br>
+> across multiple lines <br>
+> three even. using \<br> <br>
 
-1.this 
+1. this 
 2. is
 3. an
 4. ordered
@@ -45,11 +45,13 @@ Nested *Italic* text
     - indentations
 
 1. A tab can indent codeblocks
+
         <html>
             <head>
                 <h1>like this</h1>
             </head>
         </html>
+
 2. Images are entered like this ' !\[a tile block from WFC](/myCodeStudies\WFC\tiles\1.png) '
 
     ![a tile block from WFC](\myCodeStudies\WFC\tiles\1.png)

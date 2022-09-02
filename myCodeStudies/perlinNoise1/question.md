@@ -1,4 +1,5 @@
 # What part of this code creates a random output?
+
     noise_scale = 0.2
         for x in range(1000):
             for y in range(750):

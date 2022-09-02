@@ -156,4 +156,4 @@ Tried to help others get into the bigBlueButton meeting, passed on what Liam tau
 I think so? It wouldnt hurt to do more
 
 ### Have you developed a habit of persevering?
-Yes I think so, I dont have an issue with perseverance but I do with distraction.
+Yes I think so, I dont have an issue with perseverance but I do with distraction in a "ohh a shiny new topic" sense.
